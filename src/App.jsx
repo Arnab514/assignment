@@ -28,6 +28,7 @@ import Counter from './Counter'
 function App(){
   return(
     <>
+    <h1>Assignment task</h1>
     <Counter/>
     </>
   )
